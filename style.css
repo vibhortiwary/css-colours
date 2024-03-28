@@ -1,0 +1,28 @@
+#red{
+color: red;
+}
+#blue{
+    color: blue;
+}
+#orange{
+    color:orange;
+}#green{
+    color:green;
+}#yellow{
+    color:yellow;
+}
+.color-title{
+    font-weight: normal
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+html{
+    background:rgba(0, 160, 253, 0.245);
+} 
+h1{
+    height: 15mm;
+    font-size:20mm;
+    color:black;
+}
