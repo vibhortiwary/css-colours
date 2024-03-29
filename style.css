@@ -22,7 +22,11 @@ html{
     background:rgba(0, 160, 253, 0.245);
 } 
 h1{
-    height: 15mm;
+    background: beige ;
     font-size:20mm;
     color:black;
 }
+.color{
+    background:burlywood;
+}
+
